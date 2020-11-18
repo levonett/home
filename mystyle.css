@@ -1,0 +1,60 @@
+body
+	{
+	background-color: yellow;
+	}
+table
+	{
+	width:100%;
+	}
+img
+	{
+	float:left;
+	border: 1px solid red;
+	margin: 5px;
+	}
+.staysafe
+	{
+	color :orange;
+	background-color: green;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:22px;
+	padding:4px;
+	}
+.menutable
+	{
+	border-spacing: 5px;
+	}
+.menucell
+	{
+	color :red;
+	background-color: #d9d9d9;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:22px;
+	padding:4px;
+	border: 2px solid red;
+	}
+.contentcell
+	{
+	background-color:white;
+	height: 800px;
+	padding: 5px;
+	}
+th
+	{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+	font-style: italic;
+	padding:10px;
+	}
+td
+	{
+	vertical-align:top;
+	}
+p
+  {
+  font-size:30px;
+  }
+img
+	{
+	width:300px;
+	}
